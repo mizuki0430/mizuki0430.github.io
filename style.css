@@ -8,7 +8,7 @@ h1 {
 
 p{
   
-    padding-left: 200px;
+    padding-left:200px;
     width:400px;
     margin-top: 0px;
 }
@@ -25,7 +25,7 @@ iframe{
 
 }
 .content{
-display:flex;
+display: flex;
 }
 h3{
     padding-left: 200px;
